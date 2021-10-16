@@ -1,2 +1,2 @@
-# SkullFairyWasteland
-Template for a skullfairy themed unfiction blog.
+# NumeroHex Diaries
+A work in progress diary blog.
