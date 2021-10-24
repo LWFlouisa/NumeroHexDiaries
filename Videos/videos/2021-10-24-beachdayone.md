@@ -1,6 +1,6 @@
 ---
 title: "Beach Day One"
 author: SRWeaver
-layout: default
+layout: post
 ---
-test
+[Beach Day One](https://www.youtube.com/shorts/YoH-17VuXiA)
