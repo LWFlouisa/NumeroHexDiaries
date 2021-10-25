@@ -6,6 +6,7 @@ This will be my audio visual archive of things that have been going on with me i
 
 ## The Tube
 ### Beach Days
-[Beach Day One](https://lwflouisa.github.io/NumeroHexDiaries/Videos/videos/2021-10-24-beachdayone)
-[Beach Day Two](https://lwflouisa.github.io/NumeroHexDiaries/Videos/videos/2021-10-25-beachdaytwo)
-[Beach Day Tre](https://lwflouisa.github.io/NumeroHexDiaries/Videos/videos/2021-10-26-beachdaythree)
+[Beach Day One](https://lwflouisa.github.io/NumeroHexDiaries/Videos/videos/2021-10-24-beachdayone)<br />
+[Beach Day Two](https://lwflouisa.github.io/NumeroHexDiaries/Videos/videos/2021-10-25-beachdaytwo)<br />
+[Beach Day Tre](https://lwflouisa.github.io/NumeroHexDiaries/Videos/videos/2021-10-26-beachdaythree)<br />
+[Beach Day Fro]()
