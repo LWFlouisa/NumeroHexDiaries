@@ -5,7 +5,7 @@ layout: page
 ## The Tube
 
 ### Making Ramen
-[2021-10-16 Making Ramen](https://lwflouisa
+[2021-10-16 Making Ramen](https://lwflouisa.
 github.io/NumeroHexDiaries/Videos/videos/2021-10-16-makinramem)
 
 ### Beach Days
