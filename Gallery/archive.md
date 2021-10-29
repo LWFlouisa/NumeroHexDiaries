@@ -10,3 +10,6 @@ layout: page
 [Mermaid Princesses](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-26-mermaidprincess)<br />
 [Beach Walkway](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-24-beachwalkway)<br />
 [Beach Stairs](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-24-beachstairs)<br />
+[Basketball Deck](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-24-basketballdeck)
+[Basketball Court](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-basketballcourt)<br />
+[Hocky Net](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-hockynet)<br />
