@@ -14,3 +14,4 @@ layout: page
 [Basketball Court](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-basketballcourt)<br />
 [Hocky Net](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-hockynet)<br />
 [Walkway To Basketball Court](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-walkwaytocourt)<br />
+[Driveway](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-driveway)<br />
