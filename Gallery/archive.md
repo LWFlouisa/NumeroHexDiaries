@@ -10,9 +10,14 @@ layout: page
 [Mermaid Princesses](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-26-mermaidprincess)<br />
 [Beach Walkway](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-24-beachwalkway)<br />
 [Beach Stairs](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-24-beachstairs)<br />
+[Beach View Deck]()<br />
 [Basketball Deck](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-24-basketballdeck)<br />
 [Basketball Court](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-basketballcourt)<br />
 [Hocky Net](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-hockynet)<br />
+[Cleaning Clogs](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-cleaningclogs)<br />
 [Walkway To Basketball Court](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-walkwaytocourt)<br />
 [Driveway](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2021-10-29-driveway)<br />
 [Stairway](https://lwflouisa.github.io/NumeroHexDiaries/Gallery/images/2921-10-29-stairway)<br />
+[Mother In Law Deck]()
+[Mother In Law Deck Table]()<br />
+[Mother In Law Tiki Statue]()<br />
